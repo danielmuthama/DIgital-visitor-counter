@@ -1,6 +1,5 @@
-   ## Designing a Bidirectional Digital Visitor Counter
-<img align="left" alt="MongoDB" width="38px" src="https://raw.githubusercontent.com/danielmuthama/Go2/master/visitor.png/visitor2.png?token=AJVSXQWMT6OILTGBXFCWXQ27OOKK6" />
-<img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/danielmuthama/Go2/master/visitor.png/visitor2.png?token=AJVSXQWMT6OILTGBXFCWXQ27OOKK6g" />
+   ### Designing a Bidirectional Digital Visitor Counter
+   
 [![Watch the video](https://raw.githubusercontent.com/danielmuthama/Go2/master/visitor.png/visitor2.png?token=AJVSXQWMT6OILTGBXFCWXQ27OOKK6)](https://youtu.be/XSitIIMb_y8)
 [![Watch the video](https://raw.githubusercontent.com/danielmuthama/Go2/master/visitor.png/visitor2.png?token=AJVSXQWMT6OILTGBXFCWXQ27OOKK6g)](https://youtu.be/EE8rnNKstbc)
 
