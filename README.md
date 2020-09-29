@@ -1,7 +1,5 @@
    ### Designing a Bidirectional Digital Visitor Counter
-   
-   <img align="left" alt="My GitHub Stats" width="300px" src="https://raw.githubusercontent.com/danielmuthama/Go2/master/visitor.png/visitor1.png?token=AJVSXQSTAI45NZUDOS227O27OOQIY" />
- <img align="" alt="Muthama's Top used languages on Github" width="300px" src="https://github.com/danielmuthama/Go2/blob/master/visitor.png/visitor2.png?raw=true"/><br/ >
+ 
  
 > Abstract
 
@@ -19,4 +17,6 @@ In the past years, several well-established institutions across the globe have e
 > Methodology
 
    This section introduces the methodology involved in the design and construction of the Digital Bidirectional Visitor Counter. Using the Takoradi Polytechnic Library crowd management situation as a case study, it was realized that the library’s capacity often gets exceeded during its peak usage period (examination period) and therefore makes the environment uncomfortable for learning. This problem was studied by visually observing student’s reaction anytime the library’s capacity was exceeded. The microcontroller-based visitor counter is designed to respond to the flaws in the operations of the existing counters. The design in its sense has four main sections and circuits. These include detection section (IR sensor circuitry), microcontroller section, alerting section (LCD and Buzzer) and power supply circuit. 
-
+> Implementation
+   <img align="left" alt="My GitHub Stats" width="300px" src="https://raw.githubusercontent.com/danielmuthama/Go2/master/visitor.png/visitor1.png?token=AJVSXQSTAI45NZUDOS227O27OOQIY" />
+ <img align="" alt="Muthama's Top used languages on Github" width="300px" src="https://github.com/danielmuthama/Go2/blob/master/visitor.png/visitor2.png?raw=true"/><br/ >
