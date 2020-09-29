@@ -1,8 +1,8 @@
    ### Designing a Bidirectional Digital Visitor Counter
    
-<img align="left" alt="My GitHub Stats" width="300px" src="https://raw.githubusercontent.com/danielmuthama/Go2/master/visitor.png/visitor1.png?token=AJVSXQTKWZBQHIBADKONPJC7OOOR2" />
+<img align="left" alt="My GitHub Stats" width="300px" src="https://raw.githubusercontent.com/danielmuthama/Go2/master/visitor.png/visitor1.png?token=AJVSXQTKWZBQHIBADKONPJC7OOOR2"/>
  <img align="left" alt="Muthama's Top used languages on Github" width="300px" src="https://raw.githubusercontent.com/danielmuthama/Go2/master/visitor.png/visitor2.png?token=AJVSXQVOWTEBN7JFRVHYVFK7OOOVW"/>
- 
+ <br/>
  https://youtu.be/EE8rnNKstbc and https://youtu.be/XSitIIMb_y8
 > Abstract
 
