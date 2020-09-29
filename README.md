@@ -2,8 +2,8 @@
    
 <img align="left" alt="My GitHub Stats" width="300px" src="https://raw.githubusercontent.com/danielmuthama/Go2/master/visitor.png/visitor1.png?token=AJVSXQTKWZBQHIBADKONPJC7OOOR2"/>
  <img align="left" alt="Muthama's Top used languages on Github" width="300px" src="https://raw.githubusercontent.com/danielmuthama/Go2/master/visitor.png/visitor2.png?token=AJVSXQVOWTEBN7JFRVHYVFK7OOOVW"/>
- <br/>
- https://youtu.be/EE8rnNKstbc and https://youtu.be/XSitIIMb_y8
+
+
 > Abstract
 
  This project presents a digital bidirectional visitor counter. The visitor counter is a reliable circuit that takes over the task of counting number of visitors in the room very accurately and beeps a warning alarm when the number of visitors exceeds the capacity limit of the hall. When somebody enters the room then the counter is incremented by one +1 and when any one leaves the room then the counter is decremented by one -1. The total number of persons inside the room is also displayed on the LCD. The microcontroller is used for detecting any entry or exit action and computing the figures (addition and subtraction) to acquire accurate results. It receives the signals from the sensors, and this signal is operated under the control of embedded programming code which is stored in ROM of the microcontroller. The microcontroller continuously monitors the Infrared Receivers. When any object passes through the IR Receiver's then the IR Rays falling on the receivers are obstructed. The obstruction occurs under two circumstances, either you obstruct sensor 1 (i.e. outside the building) before sensor 2 (i.e. which is inside the building) this shows that you are entering the building or you do it the other way round, which is obstructing sensor 2 before sensor 1 to indicates an exit movement. 
