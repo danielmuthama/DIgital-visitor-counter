@@ -23,7 +23,7 @@ In the past years, several well-established institutions across the globe have e
    The design in its sense has four main sections and circuits. 
 	Which include **detection section (IR sensor circuitry), (ICs) section, alerting section (LCD and Buzzer) and power supply circuit**. 
 > Implementation
-### Proteus simulation
+### Proteus prototype simulation
 <img align="left" alt="" width="400px" src="https://raw.githubusercontent.com/danielmuthama/Go2/master/visitor.png/visitor1.png?token=AJVSXQSTAI45NZUDOS227O27OOQIY" />
 <img align="" alt="" width="400px" src="https://github.com/danielmuthama/Go2/blob/master/visitor.png/visitor2.png?raw=true"/><br/ >
 
