@@ -27,7 +27,8 @@ In the past years, several well-established institutions across the globe have e
 	3. alerting section (LCD and Buzzer)
 	3. power supply circuit**. 
 > Implementation
-We come up with a simple prototype to of the whole implementation
+
+We come up with a simple prototype to represent the whole or part of the system
 ### Proteus prototype simulation
 <img align="left" alt="" width="400px" src="https://raw.githubusercontent.com/danielmuthama/Go2/master/visitor.png/visitor1.png?token=AJVSXQSTAI45NZUDOS227O27OOQIY" />
 <img align="" alt="" width="400px" src="https://github.com/danielmuthama/Go2/blob/master/visitor.png/visitor2.png?raw=true"/><br/ >
